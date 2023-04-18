@@ -68,7 +68,7 @@ h3 {
   left: 1rem;
 }
 body {
-  background-image: url(./assets/img/bg4.jpg);
+  background-image: url(../assets/img/bg4.jpg);
 }
 div {
   flex-direction: row;
